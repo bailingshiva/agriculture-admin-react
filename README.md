@@ -1,10 +1,9 @@
-# editor
+# agriculture-admin-react
 
 > A Vue.js project
 
 ## 图片展示
 
-![image](https://github.com/bailingshiva/vue-aker-edit/blob/master/static/bianjikuan.png)
+![image](https://github.com/bailingshiva/agriculture-admin-react/blob/master/src/assets/images/1.png)
 
-## npm地址
-https://www.npmjs.com/package/vue-aker-edit
+
